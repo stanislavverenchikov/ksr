@@ -1,0 +1,5 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+put <- read.table(file="Data/wdPath.txt", header = TRUE)
